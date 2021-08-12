@@ -3,8 +3,8 @@ This program is for focusing on a combinational optimization based on recursive 
 
 How to run this program:
 1) The user inputs an amount to spend.
-2) The user search the inventory in the dislay of the inventory and thir costs.
-3) If the user select which items to buy, then the display will show the selected products or no products.
+2) The user searches the inventory from the display of the inventory and their costs.
+3) If the user selects which items to buy, then the display will show the selected products or no products.
 4) However, the items are limited to one, and the items which were already chosen and purchased will not be removed in the inventory.
 5) When the user hits the quit button, it will stop the program.
 
